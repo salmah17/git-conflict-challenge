@@ -1,3 +1,5 @@
 # git-conflict-challenge
 quete_1.6
-# mon readme modifier en local
+<<<<<<< HEAD
+# mon readme modifier en local et sur github
+
